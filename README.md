@@ -1,2 +1,7 @@
-# demo-corel-srl
-Demo web para Corel SRL — diseñada por eterlab.
+# Corel SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
